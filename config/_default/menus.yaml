@@ -22,7 +22,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: Honors
+  - name: Awards
     url: '#honor'
     weight: 40
 
