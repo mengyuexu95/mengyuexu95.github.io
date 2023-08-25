@@ -1,6 +1,8 @@
 ---
 title: Upcoming invited talk in OFC 2024
-abstract: 'Track S1: Datacom Subsystems and Systems'
+abstract: >-
+'Track S1: Datacom Subsystems and Systems'
+
 'Talk title: Advances in Thin-Film Lithium Niobate Photonics for Datacom Applications'
 location: San Deigo, CA, USA
 date: 2024-03-24T23:17:38.162Z
