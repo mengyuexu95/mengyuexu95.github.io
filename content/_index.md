@@ -113,10 +113,13 @@ sections:
         - certificate_url:
           date_end: ''
           date_start: '2023-06-01'
-          description: 'Europe Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2022, Seal of Excellent'
+          description: 'The project proposal submitted under the Horizon Europe Marie Skłodowska- 
+          Curie Actions call MSCA Postdoctoral Fellowships 2022 by Mengyue Xu following evaluation by 
+          an international panel of independent experts was recognised as a high-quality project 
+          proposal.'
           organization: European Commission Horizon 
           organization_url: 
-          title: Seal of Excellent for MSCA Postdoctoral individual fellowship 2022
+          title: Seal of Excellent for Europe Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2022
           url: 
 
         - certificate_url:
