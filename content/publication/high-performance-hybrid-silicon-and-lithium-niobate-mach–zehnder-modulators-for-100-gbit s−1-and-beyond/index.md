@@ -1,6 +1,6 @@
 ---
 title: High-performance hybrid silicon and lithium niobate Mach–Zehnder
-  modulators for 100 Gbit s-1 and beyond
+  modulators for 100 Gbit s<sup>-1</sup> and beyond
 publication_types:
   - "2"
 authors:
@@ -31,7 +31,7 @@ abstract: >-
   modulators that simultaneously fulfil these criteria. The presented device
   exhibits an insertion loss of 2.5 dB, voltage–length product of 2.2 V cm in
   single-drive push–pull operation, high linearity, electro-optic bandwidth of
-  at least 70 GHz and modulation rates up to 112 Gbit s−1. The high-performance
+  at least 70 GHz and modulation rates up to 112 Gbit s<sup>-1</sup>. The high-performance
   modulator is realized by seamless integration of a high-contrast waveguide
   based on lithium niobate—a popular modulator material—with compact, low-loss
   silicon circuitry. The hybrid platform demonstrated here allows for the
@@ -41,15 +41,17 @@ abstract: >-
 
   {style="text-align: justify;"}
 draft: false
-featured: false
+featured: ture
 tags:
   - Heterogenous integration
   - Silicon photonics
   - Electrooptic modulator
   - Optical communications
 image:
-  filename: featured
-  focal_point: Smart
+  placement: 3
+  filename: hybrid.jpg
+  focal_point: center
   preview_only: false
+  caption: Heterogenous Silicon/TFLN Photonics
 date: 2019-03-05T00:31:00.000Z
 ---
