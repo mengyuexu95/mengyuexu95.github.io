@@ -112,6 +112,15 @@ sections:
       items:
         - certificate_url:
           date_end: ''
+          date_start: '2023-06-01'
+          description: 'Europe Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2022, Seal of Excellent'
+          organization: European Commission Horizon 
+          organization_url: 
+          title: Seal of Excellent for MSCA Postdoctoral individual fellowship 2022
+          url: 
+
+        - certificate_url:
+          date_end: ''
           date_start: '2021-06-08'
           description: 'Mengyue Xu was nominated by Prof. Xinlun Cai for her exceptional contributions to Thin-film Lithium Niobate Electro-optic devices for Coherent Optical Communication.'
           organization: Photonics Society of Chinese Heritage (PSC)
