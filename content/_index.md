@@ -119,7 +119,7 @@ sections:
           proposal.'
           organization: European Commission Horizon 
           organization_url: 
-          title: Seal of Excellent for Europe Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2022
+          title: Seal of Excellent for Europe Marie Skłodowska-Curie Actions Postdoctoral Fellowships proposal
           url: 
 
         - certificate_url:
