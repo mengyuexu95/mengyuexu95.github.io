@@ -76,7 +76,7 @@
   <div class="ml-3">
     {{ $resource := partial "functions/get_featured_image.html" $item }}
     {{ with $resource }}
-      {{ $image := .Resize "500x" }}
+      {{ $image := .Resize "150x" }}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
