@@ -36,7 +36,7 @@ tags:
   - Polarization multiplexing
 image:
   placement: 3
-  filename: pdmiq.jpg
+  filename: pdmiq.webp
   focal_point: 'center'
   preview_only: false
   
