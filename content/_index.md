@@ -69,7 +69,7 @@ sections:
         featured_only: false
     design:
       columns: '2'
-      view: card
+      view: community/my
   # - block: collection
   #   id: pubs
   #   content:
