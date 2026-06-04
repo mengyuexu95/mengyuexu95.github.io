@@ -45,6 +45,7 @@ div.heading ul{padding-bottom:0px}
 div.publication{padding-top:0px;padding-bottom:20px}
 div.publication div.img{max-width:300px;padding-right:0px;padding-top:5px}
 div.publication div.text{max-width:650px;text-align:left;vertical-align:top}
+div.tflt-highlight{margin-top:3px;color:#8A1F1F;font-family:Georgia,"Times New Roman",serif;font-weight:600;line-height:155%}
 div.authors{font-size:100%;color:#777777}
 span.venue,span.highlight,
 div.publication span.tag{padding-right:0px;font-size:100%}
